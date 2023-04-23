@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/noetic/realsenseros_ws/install/setup.sh
